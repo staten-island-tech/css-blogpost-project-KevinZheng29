@@ -1,0 +1,30 @@
+
+body{
+    background-image: url(https://lh5.googleusercontent.com/proxy/WIK4ZUzm_OqmDdAh4KP6hJ2e7zzHNIoSRohvu4cVHoelr42oLd0JXhpYCgRmG_vBTgHZiYw7OIp8lDorMiwEoeczF6taMumCC9xCRA=s0-d);
+    background-size: cover;}
+
+.SubHeading{
+    background-image: url();
+    font-size: 45px;
+    text-align: center;
+    background-image: ;
+    border: 10px solid black;
+    padding: 60px 30px;
+}
+
+.Chess{
+    margin-top: 15vh;
+    text-align: left;
+    font-size: 10vh;
+}
+
+.chess1{
+    border: 3px solid black;
+    font-size: 30px;
+}
+
+.Minecraft{
+    font-size: 10vh;
+    border: 3px solid black;
+  
+}
